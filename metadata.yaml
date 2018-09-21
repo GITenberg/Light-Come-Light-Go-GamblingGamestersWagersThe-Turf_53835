@@ -1,0 +1,27 @@
+_repo: Light-Come-Light-Go-GamblingGamestersWagersThe-Turf_53835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nevill, Ralph
+    alias: Nevill, Ralph Henry
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '47526'
+    url: http://www.gutenberg.org/2009/agents/47526
+description: ''
+gutenberg_issued: '2016-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53835'
+  lccn: '10014858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horse racing'
+- !lcc 'HV'
+- !lcsh 'Gambling'
+- GITenberg
+title: 'Light Come, Light Go: Gambling—Gamesters—Wagers—The Turf'
+url: http://www.gutenberg.org/ebooks/53835
